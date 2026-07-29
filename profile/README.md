@@ -7,6 +7,9 @@ that fit on a single Mac. Our work spans MLX-based local training, WASM
 backends for browser inference, and a WebGPU playground for hands-on
 experimentation.
 
+Created and maintained by [Sarthak Agrawal](https://sarthakagrawal.dev) as
+part of his independent Foundry product fleet.
+
 ## What we ship
 
 - **[PostTrainLLM](https://posttrainllm.com)** — Mac-local LLM specialist factory. Post-training and runtime that fits on one Mac, plus a WebGPU playground. Free, open source.
